@@ -1,0 +1,118 @@
+#singers{
+    background-color: grey;
+    color: red;
+    border: 30px;
+    border-radius: 10px;
+    font-size: 3rem;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    box-shadow: 10px 10px 10px black;
+    text-shadow: 10px 10px 10px black;
+}
+
+#anirudh{
+    background-color: brown;
+    font-size: 2rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 400px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+#anirudhimage{
+    width: 300px;
+    height: 210px;
+    opacity:0.7;
+}
+
+#anirudhpara{
+    display: inline-block;
+    width: 600px;
+    height: 195px;
+    overflow: auto;
+    text-align: justify;
+    background-color: lightgreen;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+
+}
+
+#arijit{
+    background-color: yellowgreen;
+    font-size: 2rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 230px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+#arijitimage{
+    width: 300px;
+    height: 200px;
+    opacity: 0.5;
+}
+
+#arijitpara{
+    display: inline-block;
+    width: 600px;
+    height: 185px;
+    overflow: auto;
+    text-align: justify;
+    background-color: lightpink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#shreya{
+    background-color: palevioletred;
+    font-size: 2rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 300px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+#shreyaimage{
+    width: 300px;
+    height: 200px;
+    opacity: 0.4;
+}
+
+#shreyapara{
+    display:inline-block;
+    display: none;
+    width: 600px;
+    height: 200px;
+    overflow: hidden;
+    text-align: justify;
+    background-color: yellow;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#karthik{
+    background-color: cornflowerblue;
+    font-size: 2rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 150px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+#karthikimage{
+    width: 300px;
+    height: 215px;
+    opacity: 0.8;
+}
+
+#karthikpara{
+    display: inline-block;
+    width: 600px;
+    height: 200px;
+    overflow: hidden;
+    text-align: justify;
+    background-color: forestgreen;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#topsingers{
+    background-color: lightcyan;
+}
